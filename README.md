@@ -1,7 +1,7 @@
 # SpaceConcordia_intro_task
 
-This is the repository for my intro task for Space Concordia Robotics devision.
-This is mainly a lerning projhect for me to master KiCAD 6.0.
+This is the repository for my intro task for Space Concordia Robotics division.
+This is mainly a lerning project for me to master KiCAD 6.0.
 The initial sketch was created using KiCAD, with the final version being completed using EasyEDA for ease of access to parts.
 
 The task is to create a timer with the following functions:
