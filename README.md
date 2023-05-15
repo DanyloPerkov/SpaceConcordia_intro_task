@@ -12,3 +12,5 @@ The task is to create a timer with the following functions:
 
 
 An arduino, a 5V power supply as well as a buzzer are being connected to this board.
+
+As it is an ongoing project, a final result will be posted once the PCB is assempled.
